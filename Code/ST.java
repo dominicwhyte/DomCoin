@@ -1,7 +1,7 @@
 /******************************************************************************
  *  Compilation:  javac ST.java
  *  Execution:    java ST
- *  
+ *  NOTE: Program created by COS126 Instructors (used with permission)
  *  Sorted symbol table implementation using a java.util.TreeMap.
  *  Does not allow duplicates.
  *
