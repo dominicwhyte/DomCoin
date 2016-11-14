@@ -1,5 +1,5 @@
 /*************************************************************************
- * Name:
+ * Name: NOTE: Program created by COS126 Instructors (used with permission)
  * Login:
  * Precept:
  *
